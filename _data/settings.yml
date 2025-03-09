@@ -13,7 +13,7 @@ copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.c
 
 menu:
   - { name: About, link: "/about" }
-  - { name: Research, link: "/research" }
+  - { name: Research, link: "/blog" }
   - { name: ETC, link: "/etc" }
   - { name: Contact, link: "/contact" }
 
