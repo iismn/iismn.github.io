@@ -39,9 +39,8 @@ hero:
   hero-title: Research Arxiv <br> iismn <br> Visual Intelligence
 
 social:
-  - { icon: "ti-facebook", link: "#" }
-  - { icon: "ti-instagram", link: "https://www.instagram.com/_iismn/" }
-  - { icon: "ti-twitter", link: "#" }
+  - { icon: "ti-linkedin", link: "www.linkedin.com/in/iismn-avresarch0510" }
+  - { icon: "ti-github", link: "https://github.com/iismn" }
 
 #-------------------------------
 # About (Section and Page)
