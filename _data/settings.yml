@@ -13,8 +13,8 @@ copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.c
 
 menu:
   - { name: About, link: "/about" }
-  - { name: Blog, link: "/blog" }
-  - { name: Portfolio, link: "/portfolio" }
+  - { name: Research, link: "/research" }
+  - { name: ETC, link: "/etc" }
   - { name: Contact, link: "/contact" }
 
 #-------------------------------
@@ -36,12 +36,11 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title: Research Arxiv <br> iismn <br> Visual Intelligence
 
 social:
   - { icon: "ti-facebook", link: "#" }
-  - { icon: "ti-instagram", link: "#" }
-  - { icon: "ti-dribbble", link: "#" }
+  - { icon: "ti-instagram", link: "https://www.instagram.com/_iismn/" }
   - { icon: "ti-twitter", link: "#" }
 
 #-------------------------------
